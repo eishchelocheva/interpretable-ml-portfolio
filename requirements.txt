@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+tqdm
+pyarrow
+shap
+lime
+PyALE
+fat-forensics
+xgboost
+lightgbm
+catboost
+optuna
+optuna-integration
